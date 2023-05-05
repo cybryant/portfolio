@@ -87,11 +87,11 @@ p {
 }
 
 a {
-  color: #863ee3;
+  color: #ebd122;
 }
 
 a:hover {
-  color: #ebd122;
+  color: white;
 }
 
 .jumbotron {
